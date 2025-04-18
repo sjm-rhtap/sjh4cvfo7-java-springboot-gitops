@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: sjh4cvfo7-java-springboot-gitops-repository
+spec:
+  url: https://github.com/sjm-rhtap/sjh4cvfo7-java-springboot-gitops
